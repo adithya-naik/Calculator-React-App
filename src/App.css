@@ -1,9 +1,9 @@
 #root {
   /* margin: 0 auto; */
   /* padding: 2rem; */
-  padding: 5px;
+  /* padding: 5px; */
   margin: 70px;
-  width: 370px;
+  width: 300px;
   display: flex;
   justify-content: center;
   align-items: center;
